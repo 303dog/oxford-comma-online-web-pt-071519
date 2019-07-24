@@ -1,3 +1,3 @@
-def oxford_comma("kiwi","durian")
+def oxford_comma(array)
 [array].split
 end
