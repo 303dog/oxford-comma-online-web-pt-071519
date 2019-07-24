@@ -1,3 +1,2 @@
-def oxford_comma(array)
-"kiwi","durian".join
+def oxford_comma(array).join
 end
